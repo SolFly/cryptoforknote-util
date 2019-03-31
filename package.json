@@ -1,14 +1,14 @@
 {
   "name": "cryptoforknote-util",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "main": "cryptoforknote-util",
   "author": {
-    "name": "LucasJones",
-    "email": "lucasjonesdev@hotmail.co.uk"
+    "name": "FastPooL.XyZ",
+    "email": "solfly86@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MoneroOcean/node-cryptoforknote-util.git"
+    "url": "https://github.com/SolFly/cryptoforknote-util-master.git"
   },
   "dependencies": {
     "bindings": "*",
